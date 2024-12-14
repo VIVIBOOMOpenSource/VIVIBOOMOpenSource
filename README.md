@@ -81,13 +81,12 @@ VIVIBOOM is built using modern web and mobile technologies:
 
 ---
 
-## Contribution Guidelines
+## Contribute to the project
+We welcome contributions to make this project even better! Whether it's fixing bugs, adding new features, improving documentation, or optimizing performance, your help is appreciated.
 
-VIVIBOOM is an open-source software, and contributions are always welcome. To contribute:
-1. [Fork the repository on GitHub.](https://github.com/orgs/VIVIBOOMOpenSource/repositories).
-2. Create a new branch for your feature or bug fix.
-3. Commit and push your changes.
-4. Submit a pull request for review.
+Before you get started, please read the [Contribution Guidelines](contribution.md) to understand the process and conventions.
+
+Thank you for contributing to the project! 🚀
 
 ---
 
